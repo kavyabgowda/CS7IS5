@@ -1,0 +1,447 @@
+{
+  "recipeId": 4,
+  "vegetarian": false,
+  "vegan": false,
+  "glutenFree": true,
+  "dairyFree": true,
+  "veryHealthy": true,
+  "cheap": false,
+  "veryPopular": false,
+  "sustainable": false,
+  "weightWatcherSmartPoints": 50,
+  "gaps": "no",
+  "lowFodmap": false,
+  "ketogenic": false,
+  "whole30": false,
+  "sourceUrl": "http://bapstory.blogspot.com/2011/08/stir-fried-anchovies-myulchi-bokkeum.html",
+  "spoonacularSourceUrl": "https://spoonacular.com/bap-story-stir-fried-anchovies-myulchi-bokkeum-4",
+  "aggregateLikes": 11,
+  "spoonacularScore": 94.0,
+  "healthScore": 70.0,
+  "pricePerServing": 811.22,
+  "extendedIngredients": [
+    {
+      "id": 15001,
+      "aisle": "Seafood",
+      "image": "anchovies.jpg",
+      "consitency": "solid",
+      "name": "anchovies",
+      "original": "150g tiny dried anchovies",
+      "originalString": "150g tiny dried anchovies",
+      "originalName": "tiny dried anchovies",
+      "amount": 150.0,
+      "unit": "g",
+      "meta": [
+        "dried"
+      ],
+      "metaInformation": [
+        "dried"
+      ],
+      "measures": {
+        "us": {
+          "amount": 5.291,
+          "unitShort": "oz",
+          "unitLong": "ounces"
+        },
+        "metric": {
+          "amount": 150.0,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 10192,
+      "aisle": "Meat",
+      "image": "baby-back-ribs.jpg",
+      "consitency": "solid",
+      "name": "baby-back ribs",
+      "original": "4. Turn the heat back on and stir for another 3-4 minutes.",
+      "originalString": "4. Turn the heat back on and stir for another 3-4 minutes.",
+      "originalName": "Turn the heat back on and stir for another 3-4 minutes.",
+      "amount": 4.0,
+      "unit": "",
+      "meta": [
+        "for another 3-4 minutes."
+      ],
+      "metaInformation": [
+        "for another 3-4 minutes."
+      ],
+      "measures": {
+        "us": {
+          "amount": 4.0,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 4.0,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 4582,
+      "aisle": "Oil, Vinegar, Salad Dressing",
+      "image": "vegetable-oil.jpg",
+      "consitency": "liquid",
+      "name": "cooking oil",
+      "original": "2 T cooking oil",
+      "originalString": "2 T cooking oil",
+      "originalName": "cooking oil",
+      "amount": 2.0,
+      "unit": "T",
+      "meta": [],
+      "metaInformation": [],
+      "measures": {
+        "us": {
+          "amount": 2.0,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        },
+        "metric": {
+          "amount": 2.0,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        }
+      }
+    },
+    {
+      "id": 4513,
+      "aisle": "Oil, Vinegar, Salad Dressing",
+      "image": "vegetable-oil.jpg",
+      "consitency": "liquid",
+      "name": "frying oil",
+      "original": "1. Heat a frying pan with the oil on medium heat. Add the anchovies and mix around for a couple minutes.",
+      "originalString": "1. Heat a frying pan with the oil on medium heat. Add the anchovies and mix around for a couple minutes.",
+      "originalName": "Heat a frying pan with the oil on medium heat. Add the anchovies and mix around for a couple minutes.",
+      "amount": 1.0,
+      "unit": "",
+      "meta": [
+        "with the oil on medium heat. add the anchovies and mix around for a couple minutes."
+      ],
+      "metaInformation": [
+        "with the oil on medium heat. add the anchovies and mix around for a couple minutes."
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 11215,
+      "aisle": "Produce",
+      "image": "garlic.jpg",
+      "consitency": "solid",
+      "name": "garlic",
+      "original": "2. Add garlic slices, ginger, toasted nuts. Mix for another minute until the garlic and ginger is fragrant.",
+      "originalString": "2. Add garlic slices, ginger, toasted nuts. Mix for another minute until the garlic and ginger is fragrant.",
+      "originalName": "Add garlic slices, ginger, toasted nuts. Mix for another minute until the garlic and ginger is fragrant.",
+      "amount": 2.0,
+      "unit": "",
+      "meta": [
+        "toasted",
+        "for another minute until the garlic and ginger is fragrant."
+      ],
+      "metaInformation": [
+        "toasted",
+        "for another minute until the garlic and ginger is fragrant."
+      ],
+      "measures": {
+        "us": {
+          "amount": 2.0,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 2.0,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 11215,
+      "aisle": "Produce",
+      "image": "garlic.jpg",
+      "consitency": "solid",
+      "name": "garlic",
+      "original": "2 T sliced garlic",
+      "originalString": "2 T sliced garlic",
+      "originalName": "sliced garlic",
+      "amount": 2.0,
+      "unit": "T",
+      "meta": [
+        "sliced"
+      ],
+      "metaInformation": [
+        "sliced"
+      ],
+      "measures": {
+        "us": {
+          "amount": 2.0,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        },
+        "metric": {
+          "amount": 2.0,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        }
+      }
+    },
+    {
+      "id": 2021,
+      "aisle": "Spices and Seasonings",
+      "image": "ginger.png",
+      "consitency": "solid",
+      "name": "ground ginger",
+      "original": "1/2 ground ginger",
+      "originalString": "1/2 ground ginger",
+      "originalName": "ground ginger",
+      "amount": 0.5,
+      "unit": "",
+      "meta": [],
+      "metaInformation": [],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 0.5,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 12147,
+      "aisle": "Produce;Baking",
+      "image": "pine-nuts.png",
+      "consitency": "solid",
+      "name": "pine nuts",
+      "original": "2 T toasted pine nuts (we substituted with chopped walnuts and pumpkin seed and it was yummy)",
+      "originalString": "2 T toasted pine nuts (we substituted with chopped walnuts and pumpkin seed and it was yummy)",
+      "originalName": "toasted pine nuts (we substituted with chopped walnuts and pumpkin seed and it was yummy)",
+      "amount": 2.0,
+      "unit": "T",
+      "meta": [
+        "with chopped walnuts and pumpkin seed and it was yummy)",
+        "toasted"
+      ],
+      "metaInformation": [
+        "with chopped walnuts and pumpkin seed and it was yummy)",
+        "toasted"
+      ],
+      "measures": {
+        "us": {
+          "amount": 2.0,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        },
+        "metric": {
+          "amount": 2.0,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        }
+      }
+    },
+    {
+      "id": 9279,
+      "aisle": "Produce",
+      "image": "plum.jpg",
+      "consitency": "solid",
+      "name": "plum",
+      "original": "1.5 t plum extract",
+      "originalString": "1.5 t plum extract",
+      "originalName": "plum extract",
+      "amount": 1.5,
+      "unit": "t",
+      "meta": [],
+      "metaInformation": [],
+      "measures": {
+        "us": {
+          "amount": 1.5,
+          "unitShort": "tsps",
+          "unitLong": "teaspoons"
+        },
+        "metric": {
+          "amount": 1.5,
+          "unitShort": "tsps",
+          "unitLong": "teaspoons"
+        }
+      }
+    },
+    {
+      "id": 93784,
+      "aisle": "Health Foods;Baking",
+      "image": "corn-syrup.png",
+      "consitency": "solid",
+      "name": "rice syrup",
+      "original": "1 T Korean cooking syrup",
+      "originalString": "1 T Korean cooking syrup",
+      "originalName": "Korean cooking syrup",
+      "amount": 1.0,
+      "unit": "T",
+      "meta": [],
+      "metaInformation": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "Tbsp",
+          "unitLong": "Tbsp"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "Tbsp",
+          "unitLong": "Tbsp"
+        }
+      }
+    },
+    {
+      "id": 93784,
+      "aisle": "Health Foods;Baking",
+      "image": "corn-syrup.png",
+      "consitency": "solid",
+      "name": "rice syrup",
+      "original": "3. Turn off the heat. Add the cooking syrup, sugar and plum extract. Mix it around.",
+      "originalString": "3. Turn off the heat. Add the cooking syrup, sugar and plum extract. Mix it around.",
+      "originalName": "Turn off the heat. Add the cooking syrup, sugar and plum extract. Mix it around.",
+      "amount": 3.0,
+      "unit": "",
+      "meta": [],
+      "metaInformation": [],
+      "measures": {
+        "us": {
+          "amount": 3.0,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 3.0,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 12023,
+      "aisle": "Ethnic Foods;Spices and Seasonings",
+      "image": "sesame-seeds.png",
+      "consitency": "solid",
+      "name": "sesame seeds",
+      "original": "2 T toasted sesame seeds",
+      "originalString": "2 T toasted sesame seeds",
+      "originalName": "toasted sesame seeds",
+      "amount": 2.0,
+      "unit": "T",
+      "meta": [
+        "toasted"
+      ],
+      "metaInformation": [
+        "toasted"
+      ],
+      "measures": {
+        "us": {
+          "amount": 2.0,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        },
+        "metric": {
+          "amount": 2.0,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        }
+      }
+    },
+    {
+      "id": 19335,
+      "aisle": "Baking",
+      "image": "sugar-in-bowl.png",
+      "consitency": "solid",
+      "name": "sugar",
+      "original": "1 T sugar",
+      "originalString": "1 T sugar",
+      "originalName": "sugar",
+      "amount": 1.0,
+      "unit": "T",
+      "meta": [],
+      "metaInformation": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "Tbsp",
+          "unitLong": "Tbsp"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "Tbsp",
+          "unitLong": "Tbsp"
+        }
+      }
+    },
+    {
+      "id": null,
+      "aisle": "?",
+      "image": null,
+      "consitency": null,
+      "name": "sprinkle",
+      "original": "5. Sprinkle with sesame seeds.",
+      "originalString": "5. Sprinkle with sesame seeds.",
+      "originalName": "Sprinkle with sesame seeds.",
+      "amount": 5.0,
+      "unit": "",
+      "meta": [
+        "with sesame seeds."
+      ],
+      "metaInformation": [
+        "with sesame seeds."
+      ],
+      "measures": {
+        "us": {
+          "amount": 5.0,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 5.0,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    }
+  ],
+  "id": 4,
+  "title": "Bap Story: Stir Fried Anchovies (Myulchi Bokkeum)",
+  "readyInMinutes": 45,
+  "servings": 2,
+  "image": "https://spoonacular.com/recipeImages/4-556x370.jpg",
+  "imageType": "jpg",
+  "cuisines": [],
+  "dishTypes": [
+    "lunch",
+    "main course",
+    "main dish",
+    "dinner"
+  ],
+  "diets": [
+    "gluten free",
+    "dairy free"
+  ],
+  "occasions": [],
+  "winePairing": {},
+  "instructions": null,
+  "analyzedInstructions": [],
+  "sourceName": null,
+  "creditsText": null
+}
